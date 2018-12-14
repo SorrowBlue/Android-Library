@@ -14,7 +14,7 @@ repositories {
 dependencies {
 
 	// ColorPalette
-	implementation 'com.sorrowblue.android:colorpalette:1.0.3'
+	implementation 'com.sorrowblue.android:colorpalette:1.1.0'
 	
 }
 ```
